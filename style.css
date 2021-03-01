@@ -208,3 +208,107 @@
          height: 100%;
          } 
          }
+@media only screen and (max-width: 980px){
+      body {
+          background-color: #000000;
+          max-width: 100%;
+          margin: auto;
+          padding: 30px;
+          }
+          
+          table {
+          width: 140px;
+          height: 150%;
+          margin-right: 50%;
+         }
+          
+         .name{ 
+         font-family: 'Commissioner';
+         font-size: 150%;
+         margin-bottom: 10px; 
+         text-align:center; 
+         color: #ffffff;  
+         } 
+         
+         h3 { 
+         font-family: 'Commissioner';
+         font-size: 120%;
+         margin-bottom: 10px; 
+         text-align: left; 
+         color: #ffffff;  
+         } 
+  
+         input[type="button"] 
+         { 
+         font-family: 'Comfortaa';
+         font-size: 140%;
+         background-color:#414141; 
+         color: #ffffff; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+         
+         input[value="/"] { 
+         font-family: 'Comfortaa';
+         background-color: #ff7400; 
+         color: #c7c7c7; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+         
+           input[value="-"] { 
+         font-family: 'Comfortaa';
+         background-color: #ff7400; 
+         color: #c7c7c7; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+         
+           input[value="+"] { 
+         font-family: 'Comfortaa';
+         background-color: #ff7400; 
+         color: #c7c7c7; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+  
+         input[value="="] { 
+         font-family: 'Comfortaa';
+         background-color: #cbcbcb; 
+         color: #000000; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+         
+         input[value="c"] { 
+         font-family: 'Comfortaa';
+         background-color: #ececec; 
+         color: #000000; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         } 
+  
+           input[value="*"] { 
+         font-family: 'Comfortaa';
+         font-size: 150%;
+         background-color: #ff7400; 
+         color: #c7c7c7; 
+         border: solid black 2px; 
+         width:100%; 
+         height: 100%;
+         }  
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 5px; 
+         width:100%;
+         height: 100%;
+         } 
+         }
