@@ -192,7 +192,7 @@
   
            input[value="*"] { 
          font-family: 'Comfortaa';
-         font-size: 150%;
+         font-size: 180%;
          background-color: #ff7400; 
          color: #c7c7c7; 
          border: solid black 2px; 
@@ -202,6 +202,8 @@
   
          input[type="text"] 
          { 
+         font-family: 'Commissioner';
+         font-size: 165%
          background-color:white; 
          border: solid black 5px; 
          width:100%;
@@ -241,7 +243,7 @@
          input[type="button"] 
          { 
          font-family: 'Comfortaa';
-         font-size: 140%;
+         font-size: 165%;
          background-color:#414141; 
          color: #ffffff; 
          border: solid black 2px; 
@@ -296,7 +298,7 @@
   
            input[value="*"] { 
          font-family: 'Comfortaa';
-         font-size: 150%;
+         font-size: 180%;
          background-color: #ff7400; 
          color: #c7c7c7; 
          border: solid black 2px; 
@@ -306,6 +308,8 @@
   
          input[type="text"] 
          { 
+         font-family: 'Commissioner';
+         font-size: 165%;
          background-color:white; 
          border: solid black 5px; 
          width:100%;
