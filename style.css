@@ -1,4 +1,4 @@
- @media only screen and (max-width: 1920px) {
+@media only screen and (max-width: 1920px) {
        body {
           background-color: #000000;
           max-width: 100%;
@@ -84,7 +84,7 @@
          height: 100%;
          } 
   
-           input[value="*"] { 
+           input[value="x"] { 
          font-family: 'Comfortaa';
          font-size: 150%;
          background-color: #ff7400; 
@@ -104,7 +104,7 @@
          height: 100%;
       }
 }
-      @media only screen and (max-width: 630px){
+      @media only screen and (min-width: 600px) and (max-width: 950px){
       body {
           background-color: #000000;
           max-width: 100%;
@@ -137,7 +137,7 @@
          input[type="button"] 
          { 
          font-family: 'Comfortaa';
-         font-size: 140%;
+         font-size: 300%;
          background-color:#414141; 
          color: #ffffff; 
          border: solid black 2px; 
@@ -190,7 +190,7 @@
          height: 100%;
          } 
   
-           input[value="*"] { 
+           input[value="x"] { 
          font-family: 'Comfortaa';
          font-size: 180%;
          background-color: #ff7400; 
@@ -203,14 +203,14 @@
          input[type="text"] 
          { 
          font-family: 'Commissioner';
-         font-size: 165%
+         font-size: 250%;
          background-color:white; 
          border: solid black 5px; 
          width:100%;
          height: 100%;
          } 
          }
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 600px){
       body {
           background-color: #000000;
           max-width: 100%;
@@ -243,7 +243,7 @@
          input[type="button"] 
          { 
          font-family: 'Comfortaa';
-         font-size: 165%;
+         font-size: 175%;
          background-color:#414141; 
          color: #ffffff; 
          border: solid black 2px; 
@@ -296,7 +296,7 @@
          height: 100%;
          } 
   
-           input[value="*"] { 
+           input[value="x"] { 
          font-family: 'Comfortaa';
          font-size: 180%;
          background-color: #ff7400; 
@@ -309,10 +309,9 @@
          input[type="text"] 
          { 
          font-family: 'Commissioner';
-         font-size: 165%;
+         font-size: 250%;
          background-color:white; 
          border: solid black 5px; 
          width:100%;
          height: 100%;
-         } 
          }
